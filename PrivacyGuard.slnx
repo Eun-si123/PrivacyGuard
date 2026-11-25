@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/PrivacyGuard.Core/PrivacyGuard.Core.csproj" />
+  <Project Path="src/PrivacyGuard.Cli/PrivacyGuard.Cli.csproj" />
+  <Project Path="tests/PrivacyGuard.Core.Checks/PrivacyGuard.Core.Checks.csproj" />
+</Solution>
